@@ -1,1 +1,1 @@
-# SnSAppArch
+# SweetnSnacksApp Architecture
